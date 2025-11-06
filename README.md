@@ -11,7 +11,7 @@
 ### 1) Backend
 ```bash
 cd backend
-npm i
+npm install
 npm run start   # starts on http://localhost:4000
 ```
 > On first run it seeds products and creates `vibe_cart.db`. If SQLite is unavailable, it prints a warning and uses in‑memory storage (no setup required).
