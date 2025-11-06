@@ -19,6 +19,6 @@ npm run start   # starts on http://localhost:4000
 ### 2) Frontend
 bash
 cd ../frontend
-npm i
+npm install
 npm run dev     # opens http://localhost:5173 (proxy to backend at :4000)
 
